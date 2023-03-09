@@ -68,14 +68,14 @@ h5 {
   font-weight: 500;
   margin-bottom: 20px;
 }
-a {
+/* a {
   text-decoration: none;
   color: #9b2226;
 }
 a:hover {
   text-decoration: underline;
   color: #9b2226;
-}
+} */
 .col-md-5 {
   margin-bottom: 15px;
 }
@@ -108,3 +108,10 @@ span {
   font-size: 21px;
   text-align: right;
 } */
+.link {
+  margin-left: 280px;
+}
+a {
+  text-decoration: none;
+  /* color: #7085b6; */
+}
